@@ -539,37 +539,46 @@ gantt
 
 </details>
 
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nilamdev01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilamdev01&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<table>
+<tr>
+<td width="50%">
+<img
+  width="100%"
+  src="https://github-readme-stats.vercel.app/api?username=nilamdev01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+  alt="GitHub Stats"
+/>
+</td>
 
-<br/>
+<td width="50%">
+<img
+  width="100%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilamdev01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Top Languages"
+/>
+</td>
+</tr>
 
-<img src="https://streak-stats.demolab.com?user=nilamdev01&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nilamdev01&theme=tokyo-night&hide_border=true" alt="Activity graph" width="95%" />
+<tr>
+<td colspan="2">
+<img
+  width="100%"
+  src="https://streak-stats.demolab.com?user=nilamdev01&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
-
-## 🏅 Achievements
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=nilamdev01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
-
-</div>
-
----
-
 ## 🧰 Tools & Tech
 
 <div align="center">
