@@ -1,7 +1,3 @@
-<!-- ============================================================= -->
-<!--                    NILAM DEV • PROFILE README                 -->
-<!-- ============================================================= -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=NILAM%20DEV&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Rust%20•%20DSA%20•%20AWS&descAlignY=60&descSize=26" width="100%" alt="Nilam Dev banner"/>
